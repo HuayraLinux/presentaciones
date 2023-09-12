@@ -1,0 +1,8 @@
+Para crear el SVG usamos Inkscape. 
+Luego, se animó usando SOZI ( https://sozi.baierouge.fr/pages/20-install.html )
+
+Copyleft
+Carolina Hortal
+Diego Accorinti
+@ Equipo Huayra Linux
+
